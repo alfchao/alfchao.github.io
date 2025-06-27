@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Alfchao&#39;s Site</title>
+        <link>http://localhost:1313/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <generator>Hugo 0.147.9 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>wdjzsl@gmail.com (alfchao)</managingEditor>
+        
+        
+            <webMaster>wdjzsl@gmail.com (alfchao)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Sat, 28 Jun 2025 01:11:40 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="http://localhost:1313/rss.xml" />
+        
+        
+            <item>
+                <title>常用软件整理</title>
+                <link>http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/</link>
+                <guid isPermaLink="true">http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/</guid>
+                <pubDate>Thu, 26 Jun 2025 00:40:17 &#43;0800</pubDate>
+                
+                    <author>wdjzsl@gmail.com (alfchao)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                
+                <description>
+                        &lt;h1 id=&#34;常用软件整理&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#常用软件整理&#34; class=&#34;anchor-link&#34; aria-label=&#34;常用软件整理&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;常用软件整理&lt;/h1&gt;
+&lt;p&gt;本文将常用软件、浏览器扩展、油猴插件等进行分类整理，附上下载链接，方便日常使用与查找。&lt;/p&gt;
+&lt;h2 id=&#34;一软件合集&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#一软件合集&#34; class=&#34;anchor-link&#34; aria-label=&#34;一软件合集&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;一、软件合集&lt;/h2&gt;
+&lt;h3 id=&#34;1-虚拟机&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#1-虚拟机&#34; class=&#34;anchor-link&#34; aria-label=&#34;1-虚拟机&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;1. 虚拟机&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;VirtualBox&lt;/strong&gt;：开源虚拟机软件，支持多种操作系统，下载地址：https://www.virtualbox.org/wiki/Downloads&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;VMware&lt;/strong&gt;：专业的虚拟机软件，功能强大，适用于企业与开发者，官网：https://www.vmware.com/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Parallels Desktop&lt;/strong&gt;：专为 Mac 设计的虚拟机，可在 Mac 上流畅运行 Windows 等系统，链接：https://www.parallels.com/products/desktop/&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-操作系统&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#2-操作系统&#34; class=&#34;anchor-link&#34; aria-label=&#34;2-操作系统&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;2. 操作系统&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Windows 操作系统&lt;/strong&gt;：可在 “MSDN, 我告诉你” 网站获取官方原版镜像，地址：https://next.itellyou.cn/Original/Index&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ubuntu&lt;/strong&gt;：流行的 Linux 发行版，适合开发与日常使用，下载：https://ubuntu.com/download&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Debian&lt;/strong&gt;：稳定可靠的 Linux 系统，适合服务器与桌面使用，下载链接：https://www.debian.org/distrib/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;FnOS&lt;/strong&gt;：特色操作系统，下载地址：https://www.fnnas.com/download?key=fnos&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-系统工具&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#3-系统工具&#34; class=&#34;anchor-link&#34; aria-label=&#34;3-系统工具&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;3. 系统工具&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;图吧工具箱&lt;/strong&gt;：集成多种实用工具，如硬件检测、系统维护等，官网：http://www.tbtool.cn/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Dism++&lt;/strong&gt;：用于系统优化、更新管理等，GitHub 地址：https://github.com/Chuyu-Team/Dism-Multi-language&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;DiskGenius&lt;/strong&gt;：专业的硬盘分区与数据恢复工具，官网：https://www.diskgenius.cn/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;腾讯柠檬&lt;/strong&gt;：Mac 系统清理优化工具，官网：https://lemon.qq.com/&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-压缩工具&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#4-压缩工具&#34; class=&#34;anchor-link&#34; aria-label=&#34;4-压缩工具&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;4. 压缩工具&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Bandizip&lt;/strong&gt;：界面简洁，功能丰富，部分高级功能收费，官网：https://www.bandisoft.com/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;7-ZIP&lt;/strong&gt;：免费开源，压缩率高，支持多种格式，官网：https://www.7-zip.org/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Unarchiver&lt;/strong&gt;：Mac 上的解压工具，能处理多种格式压缩包，官网：https://theunarchiver.com/&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-文件操作&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#5-文件操作&#34; class=&#34;anchor-link&#34; aria-label=&#34;5-文件操作&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;5. 文件操作&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Everything&lt;/strong&gt;：快速搜索文件，还可进行重命名等操作，官网：https://www.voidtools.com/zh-cn/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Listary&lt;/strong&gt;：与 Everything 类似，可快速启动文件与程序，官网：https://www.listary.com/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Bulk Rename Utility&lt;/strong&gt;：强大的批量重命名工具，官网：https://www.bulkrenameutility.co.uk/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Beyond Compare&lt;/strong&gt;：用于文件与文件夹比较、同步，官网：https://www.scootersoftware.com/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;App Clean&lt;/strong&gt;：Mac 下清理应用残余文件的工具，官网：https://freemacsoft.net/appcleaner/&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-文本编辑&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#6-文本编辑&#34; class=&#34;anchor-link&#34; aria-label=&#34;6-文本编辑&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;6. 文本编辑&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Notepad++&lt;/strong&gt;：Windows 平台流行的文本编辑器，支持多种编程语言，GitHub：https://github.com/notepad-plus-plus/notepad-plus-plus&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;notepad--&lt;/strong&gt;：轻量级文本编辑器，GitHub 地址：&lt;a href=&#34;https://github.com/cxasm/notepad--&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/c&lt;/a&gt;&lt;a href=&#34;https://github.com/cxasm/notepad--&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;x&lt;/a&gt;&lt;a href=&#34;https://github.com/cxasm/notepad--&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a&lt;/a&gt;&lt;a href=&#34;https://github.com/cxasm/notepad--&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;s&lt;/a&gt;&lt;a href=&#34;https://github.com/cxasm/notepad--&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;m&lt;/a&gt;&lt;a href=&#34;https://github.com/cxasm/notepad--&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;/&lt;/a&gt;&lt;a href=&#34;https://github.com/cxasm/notepad--&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;n&lt;/a&gt;&lt;a href=&#34;https://github.com/cxasm/notepad--&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;o&lt;/a&gt;&lt;a href=&#34;https://github.com/cxasm/notepad--&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;te&lt;/a&gt;&lt;a href=&#34;https://github.com/cxasm/notepad--&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;p&lt;/a&gt;&lt;a href=&#34;https://github.com/cxasm/notepad--&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ad&lt;/a&gt;&lt;a href=&#34;https://github.com/cxasm/notepad--&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;--&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;7-效率工具&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#7-效率工具&#34; class=&#34;anchor-link&#34; aria-label=&#34;7-效率工具&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;7. 效率工具&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;IDM&lt;/strong&gt;：强大的下载工具，支持断点续传等功能，官网：&lt;a href=&#34;https://www.internetdownloadmanager.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.internetdownloadmanager.co&lt;/a&gt;&lt;a href=&#34;https://www.internetdownloadmanager.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;m/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;PotPlayer&lt;/strong&gt;：功能丰富的多媒体播放器，官网：&lt;a href=&#34;https://potplayer.daum.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://potplayer.dau&lt;/a&gt;&lt;a href=&#34;https://potplayer.daum.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;m.net&lt;/a&gt;&lt;a href=&#34;https://potplayer.daum.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;WPS&lt;/strong&gt;：国产办公软件，兼容多种文档格式，官网：&lt;a href=&#34;https://www.wps.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wp&lt;/a&gt;&lt;a href=&#34;https://www.wps.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;s.cn/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Typora&lt;/strong&gt;：简洁易用的 Markdown 编辑器，官网：https://typora.io/&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;XMind&lt;/strong&gt;：制作思维导图的工具，官网：&lt;a href=&#34;https://www.xmind.cn/download/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.xmind&lt;/a&gt;&lt;a href=&#34;https://www.xmind.cn/download/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.cn/d&lt;/a&gt;&lt;a href=&#34;https://www.xmind.cn/download/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ownlo&lt;/a&gt;&lt;a href=&#34;https://www.xmind.cn/download/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ad/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ditto&lt;/strong&gt;：Windows 剪切板增强工具，官网：&lt;a href=&#34;https://ditto-cp.sourceforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ditto-cp.sour&lt;/a&gt;&lt;a href=&#34;https://ditto-cp.sourceforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cefor&lt;/a&gt;&lt;a href=&#34;https://ditto-cp.sourceforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ge.io&lt;/a&gt;&lt;a href=&#34;https://ditto-cp.sourceforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Etcher&lt;/strong&gt;：用于将镜像文件写入 USB 设备，官网：&lt;a href=&#34;https://www.balena.io/etcher/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.balen&lt;/a&gt;&lt;a href=&#34;https://www.balena.io/etcher/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a.io/&lt;/a&gt;&lt;a href=&#34;https://www.balena.io/etcher/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;etche&lt;/a&gt;&lt;a href=&#34;https://www.balena.io/etcher/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;r/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;QTTabBar&lt;/strong&gt;：增强 Windows 资源管理器功能，官网：&lt;a href=&#34;http://qttabbar.wikidot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://qttabbar.wikido&lt;/a&gt;&lt;a href=&#34;http://qttabbar.wikidot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;t.com&lt;/a&gt;&lt;a href=&#34;http://qttabbar.wikidot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Snipaste&lt;/strong&gt;：截图、贴图工具，官网：&lt;a href=&#34;https://zh.snipaste.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://zh.snipas&lt;/a&gt;&lt;a href=&#34;https://zh.snipaste.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;te.co&lt;/a&gt;&lt;a href=&#34;https://zh.snipaste.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;m/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;SpaceSniffer&lt;/strong&gt;：分析磁盘空间使用情况，官网：&lt;a href=&#34;http://www.uderzo.it/main_products/space_sniffer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.ude&lt;/a&gt;&lt;a href=&#34;http://www.uderzo.it/main_products/space_sniffer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rzo&lt;/a&gt;&lt;a href=&#34;http://www.uderzo.it/main_products/space_sniffer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.it/mai&lt;/a&gt;&lt;a href=&#34;http://www.uderzo.it/main_products/space_sniffer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;n_pro&lt;/a&gt;&lt;a href=&#34;http://www.uderzo.it/main_products/space_sniffer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ducts&lt;/a&gt;&lt;a href=&#34;http://www.uderzo.it/main_products/space_sniffer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;/spac&lt;/a&gt;&lt;a href=&#34;http://www.uderzo.it/main_products/space_sniffer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;e_sni&lt;/a&gt;&lt;a href=&#34;http://www.uderzo.it/main_products/space_sniffer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ffer/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;MobaXterm&lt;/strong&gt;：SSH 客户端工具，官网：&lt;a href=&#34;https://mobaxterm.mobatek.net/download-home-edition.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://mobaxterm.mob&lt;/a&gt;&lt;a href=&#34;https://mobaxterm.mobatek.net/download-home-edition.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;atek&lt;/a&gt;&lt;a href=&#34;https://mobaxterm.mobatek.net/download-home-edition.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.net/d&lt;/a&gt;&lt;a href=&#34;https://mobaxterm.mobatek.net/download-home-edition.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ownlo&lt;/a&gt;&lt;a href=&#34;https://mobaxterm.mobatek.net/download-home-edition.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ad-ho&lt;/a&gt;&lt;a href=&#34;https://mobaxterm.mobatek.net/download-home-edition.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;me-ed&lt;/a&gt;&lt;a href=&#34;https://mobaxterm.mobatek.net/download-home-edition.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ition&lt;/a&gt;&lt;a href=&#34;https://mobaxterm.mobatek.net/download-home-edition.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.html&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Alfred&lt;/strong&gt;：Mac 上的效率神器，官网：&lt;a href=&#34;https://www.alfredapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.alfred&lt;/a&gt;&lt;a href=&#34;https://www.alfredapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;app&lt;/a&gt;&lt;a href=&#34;https://www.alfredapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Clipy&lt;/strong&gt;：Mac 剪切板工具，GitHub：&lt;a href=&#34;https://github.com/Clipy/Clipy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com&lt;/a&gt;&lt;a href=&#34;https://github.com/Clipy/Clipy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;/Clip&lt;/a&gt;&lt;a href=&#34;https://github.com/Clipy/Clipy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;y/Cli&lt;/a&gt;&lt;a href=&#34;https://github.com/Clipy/Clipy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;py&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;IINA&lt;/strong&gt;：Mac 上的开源播放器，官网：&lt;a href=&#34;https://iina.io/download/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://iina.io/d&lt;/a&gt;&lt;a href=&#34;https://iina.io/download/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ownlo&lt;/a&gt;&lt;a href=&#34;https://iina.io/download/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ad/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;FDM&lt;/strong&gt;：免费下载工具，官网：&lt;a href=&#34;https://www.freedownloadmanager.org/zh/download.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.freedownloadmanager.org/&lt;/a&gt;&lt;a href=&#34;https://www.freedownloadmanager.org/zh/download.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zh/do&lt;/a&gt;&lt;a href=&#34;https://www.freedownloadmanager.org/zh/download.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wnloa&lt;/a&gt;&lt;a href=&#34;https://www.freedownloadmanager.org/zh/download.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;d.htm&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Magnet&lt;/strong&gt;：Mac 分屏工具，官网：&lt;a href=&#34;https://magnet.crowdcafe.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://magnet.crowd&lt;/a&gt;&lt;a href=&#34;https://magnet.crowdcafe.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cafe&lt;/a&gt;&lt;a href=&#34;https://magnet.crowdcafe.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Reeder&lt;/strong&gt;：优秀的 RSS 阅读器，官网：https://reederapp.com/&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;8-脚本类工具&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#8-脚本类工具&#34; class=&#34;anchor-link&#34; aria-label=&#34;8-脚本类工具&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;8. 脚本类工具&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ddns-go&lt;/strong&gt;：全平台 DDNS 工具，GitHub：&lt;a href=&#34;https://github.com/jeessy2/ddns-go&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/je&lt;/a&gt;&lt;a href=&#34;https://github.com/jeessy2/ddns-go&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;essy2&lt;/a&gt;&lt;a href=&#34;https://github.com/jeessy2/ddns-go&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;/ddns&lt;/a&gt;&lt;a href=&#34;https://github.com/jeessy2/ddns-go&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;-go&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;frp&lt;/strong&gt;：内网穿透工具，GitHub：&lt;a href=&#34;https://github.com/fatedier/frp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.co&lt;/a&gt;&lt;a href=&#34;https://github.com/fatedier/frp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;m/fat&lt;/a&gt;&lt;a href=&#34;https://github.com/fatedier/frp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;edier&lt;/a&gt;&lt;a href=&#34;https://github.com/fatedier/frp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;/frp&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;MacType&lt;/strong&gt;：改善 Windows 字体显示效果，官网：&lt;a href=&#34;https://www.mactype.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.macty&lt;/a&gt;&lt;a href=&#34;https://www.mactype.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pe.ne&lt;/a&gt;&lt;a href=&#34;https://www.mactype.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;t/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;9-小工具&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#9-小工具&#34; class=&#34;anchor-link&#34; aria-label=&#34;9-小工具&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;9. 小工具&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;TrafficMonitor&lt;/strong&gt;：监控系统网络流量等状态，GitHub：&lt;a href=&#34;https://github.com/zhongyang219/TrafficMonitor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/z&lt;/a&gt;&lt;a href=&#34;https://github.com/zhongyang219/TrafficMonitor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hongy&lt;/a&gt;&lt;a href=&#34;https://github.com/zhongyang219/TrafficMonitor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ang21&lt;/a&gt;&lt;a href=&#34;https://github.com/zhongyang219/TrafficMonitor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;9/Tra&lt;/a&gt;&lt;a href=&#34;https://github.com/zhongyang219/TrafficMonitor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fficM&lt;/a&gt;&lt;a href=&#34;https://github.com/zhongyang219/TrafficMonitor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;onito&lt;/a&gt;&lt;a href=&#34;https://github.com/zhongyang219/TrafficMonitor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;r&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;WinSCP&lt;/strong&gt;：FTP/SFTP 客户端，官网：&lt;a href=&#34;https://winscp.net/eng/download.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://winscp.net/e&lt;/a&gt;&lt;a href=&#34;https://winscp.net/eng/download.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ng/do&lt;/a&gt;&lt;a href=&#34;https://winscp.net/eng/download.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wnloa&lt;/a&gt;&lt;a href=&#34;https://winscp.net/eng/download.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;d.php&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;微 PE WEPE&lt;/strong&gt;：好用的 Windows PE 系统，官网：&lt;a href=&#34;https://www.wepe.com.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wep&lt;/a&gt;&lt;a href=&#34;https://www.wepe.com.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;e.com&lt;/a&gt;&lt;a href=&#34;https://www.wepe.com.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.cn/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Barrier&lt;/strong&gt;：跨平台鼠标共享工具，开源，GitHub：&lt;a href=&#34;https://github.com/debauchee/barrier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/de&lt;/a&gt;&lt;a href=&#34;https://github.com/debauchee/barrier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bauch&lt;/a&gt;&lt;a href=&#34;https://github.com/debauchee/barrier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ee/ba&lt;/a&gt;&lt;a href=&#34;https://github.com/debauchee/barrier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rrier&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Synergy&lt;/strong&gt;：鼠标共享工具，开源（需自行编译），GitHub：&lt;a href=&#34;https://github.com/symless/synergy-core&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/sy&lt;/a&gt;&lt;a href=&#34;https://github.com/symless/synergy-core&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mless&lt;/a&gt;&lt;a href=&#34;https://github.com/symless/synergy-core&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;/syne&lt;/a&gt;&lt;a href=&#34;https://github.com/symless/synergy-core&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rgy-c&lt;/a&gt;&lt;a href=&#34;https://github.com/symless/synergy-core&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ore&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Calibre&lt;/strong&gt;：电子书管理工具，官网：&lt;a href=&#34;https://calibre-ebook.com/download&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://calibre-ebook.com/&lt;/a&gt;&lt;a href=&#34;https://calibre-ebook.com/download&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;downl&lt;/a&gt;&lt;a href=&#34;https://calibre-ebook.com/download&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;oad&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CopyTranslator&lt;/strong&gt;：文档翻译工具，官网：&lt;a href=&#34;https://copytranslator.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://copytranslator.gi&lt;/a&gt;&lt;a href=&#34;https://copytranslator.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;thub&lt;/a&gt;&lt;a href=&#34;https://copytranslator.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.io/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;PicGo&lt;/strong&gt;：用于管理 GitHub 等图床，GitHub：&lt;a href=&#34;https://github.com/Molunerfinn/PicGo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com&lt;/a&gt;&lt;a href=&#34;https://github.com/Molunerfinn/PicGo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;/Molu&lt;/a&gt;&lt;a href=&#34;https://github.com/Molunerfinn/PicGo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nerfi&lt;/a&gt;&lt;a href=&#34;https://github.com/Molunerfinn/PicGo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nn/Pi&lt;/a&gt;&lt;a href=&#34;https://github.com/Molunerfinn/PicGo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cGo&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;10-视频图片编辑&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#10-视频图片编辑&#34; class=&#34;anchor-link&#34; aria-label=&#34;10-视频图片编辑&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;10. 视频图片编辑&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;格式工厂&lt;/strong&gt;：多媒体格式转换工具，官网：&lt;a href=&#34;http://www.pcgeshi.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.pcges&lt;/a&gt;&lt;a href=&#34;http://www.pcgeshi.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hi.co&lt;/a&gt;&lt;a href=&#34;http://www.pcgeshi.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;m/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;FileConverter&lt;/strong&gt;：文件转换工具，GitHub：&lt;a href=&#34;https://github.com/Tichau/FileConverter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com&lt;/a&gt;&lt;a href=&#34;https://github.com/Tichau/FileConverter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;/Tich&lt;/a&gt;&lt;a href=&#34;https://github.com/Tichau/FileConverter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;au/Fi&lt;/a&gt;&lt;a href=&#34;https://github.com/Tichau/FileConverter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;leCon&lt;/a&gt;&lt;a href=&#34;https://github.com/Tichau/FileConverter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;verte&lt;/a&gt;&lt;a href=&#34;https://github.com/Tichau/FileConverter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;r&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Final Cut Pro&lt;/strong&gt;：专业视频编辑软件（Mac）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;11-rss-工具&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#11-rss-工具&#34; class=&#34;anchor-link&#34; aria-label=&#34;11-rss-工具&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;11. RSS 工具&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;RSSHub&lt;/strong&gt;：实现各种内容的 RSS 订阅，文档：&lt;a href=&#34;https://docs.rsshub.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.rs&lt;/a&gt;&lt;a href=&#34;https://docs.rsshub.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shub&lt;/a&gt;&lt;a href=&#34;https://docs.rsshub.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.app/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;RSS-Bridge&lt;/strong&gt;：与 RSSHub 互补的工具，GitHub：&lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com&lt;/a&gt;&lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;/RSS-&lt;/a&gt;&lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bridg&lt;/a&gt;&lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;e/rss&lt;/a&gt;&lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;-brid&lt;/a&gt;&lt;a href=&#34;https://github.com/RSS-Bridge/rss-bridge&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ge&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;DIY RSS 阅读器&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tiny Tiny RSS&lt;/strong&gt;：自建 RSS 阅读器，官网：https://tt-rss.org/&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;FreshRSS&lt;/strong&gt;：开源 RSS 阅读器，官网：https://freshrss.org/&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Awesome TTRSS&lt;/strong&gt;：一站式部署 TTRSS，官网：&lt;a href=&#34;https://ttrss.henry.wang/zh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ttrss.henry&lt;/a&gt;&lt;a href=&#34;https://ttrss.henry.wang/zh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.wang&lt;/a&gt;&lt;a href=&#34;https://ttrss.henry.wang/zh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;/zh/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Fluent&lt;/strong&gt;：全平台开源 RSS 阅读器，GitHub：&lt;a href=&#34;https://github.com/yang991178/fluent-reader&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com&lt;/a&gt;&lt;a href=&#34;https://github.com/yang991178/fluent-reader&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;/yang&lt;/a&gt;&lt;a href=&#34;https://github.com/yang991178/fluent-reader&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;99117&lt;/a&gt;&lt;a href=&#34;https://github.com/yang991178/fluent-reader&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;8/flu&lt;/a&gt;&lt;a href=&#34;https://github.com/yang991178/fluent-reader&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ent-r&lt;/a&gt;&lt;a href=&#34;https://github.com/yang991178/fluent-reader&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eader&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;12-其它小工具&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#12-其它小工具&#34; class=&#34;anchor-link&#34; aria-label=&#34;12-其它小工具&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;12. 其它小工具&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tuxera NTFS&lt;/strong&gt;：Mac 上读取 NTFS 格式硬盘的工具，官网：&lt;a href=&#34;https://ntfsformac.tuxera.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ntfsformac.tuxera&lt;/a&gt;&lt;a href=&#34;https://ntfsformac.tuxera.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;KeyCastr&lt;/strong&gt;：显示当前按键（Mac），GitHub：https://github.com/keycastr/keycastr&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CheatSheet&lt;/strong&gt;：显示 Mac 快捷键，官网：https://www.mediaatelier.com/CheatSheet/&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;二浏览器扩展&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#二浏览器扩展&#34; class=&#34;anchor-link&#34; aria-label=&#34;二浏览器扩展&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;二、浏览器扩展&lt;/h2&gt;
+&lt;h3 id=&#34;1-屏蔽广告&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#1-屏蔽广告&#34; class=&#34;anchor-link&#34; aria-label=&#34;1-屏蔽广告&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;1. 屏蔽广告&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;uBlock Origin&lt;/strong&gt;：高效的广告屏蔽插件，支持自定义屏蔽规则。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-新标签页&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#2-新标签页&#34; class=&#34;anchor-link&#34; aria-label=&#34;2-新标签页&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;2. 新标签页&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Infinity 新标签页 (Pro)&lt;/strong&gt;：美观且功能丰富的浏览器新标签页。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-网页剪切&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#3-网页剪切&#34; class=&#34;anchor-link&#34; aria-label=&#34;3-网页剪切&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;3. 网页剪切&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;OneNote Web Clipper&lt;/strong&gt;：方便将网页内容剪切保存到 OneNote。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-代理切换&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#4-代理切换&#34; class=&#34;anchor-link&#34; aria-label=&#34;4-代理切换&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;4. 代理切换&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ZeroOmega&lt;/strong&gt;：快速切换代理，GitHub：https://github.com/zero-peak/ZeroOmega&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-脚本管理&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#5-脚本管理&#34; class=&#34;anchor-link&#34; aria-label=&#34;5-脚本管理&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;5. 脚本管理&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tampermonkey&lt;/strong&gt;：用于管理油猴脚本的神器。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-pt-站点管理&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#6-pt-站点管理&#34; class=&#34;anchor-link&#34; aria-label=&#34;6-pt-站点管理&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;6. PT 站点管理&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;PT Plugin Plus&lt;/strong&gt;：管理 PT 站点的实用插件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;7-其它&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#7-其它&#34; class=&#34;anchor-link&#34; aria-label=&#34;7-其它&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;7. 其它&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;GitZip for github&lt;/strong&gt;：方便下载 GitHub 单文件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Octotree&lt;/strong&gt;：以树状结构显示 GitHub 文件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;简悦&lt;/strong&gt;：提升网页阅读体验的插件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;RSSHub Radar&lt;/strong&gt;：自动发现网页的 RSS 订阅源&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;三油猴插件&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#三油猴插件&#34; class=&#34;anchor-link&#34; aria-label=&#34;三油猴插件&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;三、油猴插件&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;searchEngineJump&lt;/strong&gt;：实现搜索引擎快捷跳转&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;AC-baidu - 重定向优化&lt;/strong&gt;：优化百度搜索结果&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;影视 VIP 解锁和网盘加速类插件&lt;/strong&gt;：提供影视资源 VIP 解锁、网盘下载加速等功能（注意使用合规性）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;自动无缝翻页&lt;/strong&gt;：浏览网页时自动翻页&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;EasyUpload PT 一键转种&lt;/strong&gt;：用于 PT 站点的一键转种操作&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;PT 站点自动签到&lt;/strong&gt;：实现 PT 站点自动签到&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;豆瓣资源下载大师&lt;/strong&gt;：辅助下载豆瓣相关资源&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Github 增强 - 高速下载&lt;/strong&gt;：增强 GitHub 下载功能&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Notion-zh_CN&lt;/strong&gt;：Notion 的中文汉化脚本&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;自动无缝翻页&lt;/strong&gt;：提升网页浏览连续性&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;四好玩的-github-项目&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#四好玩的-github-项目&#34; class=&#34;anchor-link&#34; aria-label=&#34;四好玩的-github-项目&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;四、好玩的 GitHub 项目&lt;/h2&gt;
+&lt;p&gt;可查看以下收藏项目获取更多有趣、实用的开源内容：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/alfchao?tab=stars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/alfchao?tab=stars&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://nginx.soulmate.wang/starred&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nginx.soulmate.wang/starred&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;五一些有用的网站&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/#五一些有用的网站&#34; class=&#34;anchor-link&#34; aria-label=&#34;五一些有用的网站&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34; class=&#34;icon anchor-icon&#34;&gt;&lt;path d=&#34;M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;五、一些有用的网站&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://macwk.cn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;https://macwk.cn/&lt;/strong&gt;&lt;/a&gt;：Mac 软件下载网站&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://xclient.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;https://xclient.info/&lt;/strong&gt;&lt;/a&gt;：提供各类软件资源&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+                        &lt;blockquote&gt;
+&lt;p&gt;阅读原文：&lt;a href=&#34;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/posts/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%95%B4%E7%90%86/&lt;/a&gt;&lt;br&gt;
+博客公告：博客现已开通邮件订阅，欢迎&lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;通过 Substack 订阅&lt;/a&gt;支持我的创作！&lt;/p&gt;&lt;/blockquote&gt;
+                    </description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://localhost:1313/categories/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE/">朝花夕拾</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://localhost:1313/tags/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE/">朝花夕拾</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
